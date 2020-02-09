@@ -1,5 +1,10 @@
-<h2 align="center">Value Added Tax !</h2>
+# Value Added Tax !
+- [📖 Description](#-description)
+- [🎉Stay in touch](#-stay-in-touch)
+- [🏳‍🌈 License](#-license)
+## 📖 Description
 VAT (Value Added Tax, or Yellow Cow Tax) is a tax burden on consumption, i.e. financed by the consumer as a regressive tax,1 applied in many countries and widespread in the European Union.
+[More in this documentation (wikipedia)](https://en.wikipedia.org/wiki/Value-added_tax).
 
 The following example shows the simplified mechanics, with a generalised VAT of 18 %.
 
@@ -36,11 +41,11 @@ int main()
 }
 ```
 
-### Stay in touch
+## 🎉 Stay in touch
 - Author: Yoni calsin
    - Twitter - [@yonicalsin](https://twitter.com/yonicalsin)
    - Github - [@yonicb](https://github.com/yonicb)
    - Email - <helloyonicb@gmail.com>
 
-### License
+## 🏳‍🌈 License
 This is [MIT licensed.](LICENSE)
